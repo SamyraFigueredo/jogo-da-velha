@@ -1,4 +1,4 @@
-package fnrc.JogoDaVelha;
+package fnrc.JogoDaVelha.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
